@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+    <body>
+    <div class="container">
+  <div class="box">A</div>
+  <div class="box">B</div>
+  <div class="box">C</div>
+</div>
+    </body>
+    </html>
